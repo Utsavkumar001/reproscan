@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
-const API_BASE = "https://reproscan-production.up.railway.app";
+const API_BASE = "https://reproscan-production.up.railway.app/api";
 
 const COLORS = {
   bg:       "#f0f8ff",
